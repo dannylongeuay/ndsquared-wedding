@@ -1,6 +1,6 @@
 {
-	"name": "sveltekit-tailwindcss-daisyui-template",
-	"version": "1.0.0",
+	"name": "NDSquared Wedding Frontend",
+	"version": "1.1.0",
 	"scripts": {
 		"dev": "svelte-kit dev",
 		"tilt": "svelte-kit dev --host",
